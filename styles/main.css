@@ -1,0 +1,79 @@
+/* Reset
+------------------------------------------------------------ */
+
+html { overflow-y: scroll;}
+
+body { 
+	background:#ffffff; 
+	font-size: 15px;
+	color: #666666;}
+
+h1 { 
+	font-family: "Arial";
+	margin-bottom: 20px; 
+	color: #111111;}
+
+h2 { 
+	font-family: "Arial";
+	margin-bottom: 15px; 
+	color: #111111;}
+
+a{
+	font-family: "Arial";
+	color: #000;
+	font-weight: bold; 
+	text-transform: uppercase;}
+
+input { display: block;}
+
+.error{
+	color:red;
+}
+
+.reg_error{
+	color:red;
+	text-transform: lowercase;
+}
+
+
+#main {
+	width: 95%;	
+	max-width: 900px;
+	margin: auto;
+	padding: 2%;
+	} 
+
+#reg {
+	width: 90%;	
+	max-width: 700px;
+	margin: auto;
+	padding: 2%;
+	} 
+
+#reg_style{
+	font-family: "calibri";
+	color:"white";
+	font-weight: bold; 
+	text-transform: uppercase;
+}
+
+td{padding:5px;}
+
+header table{
+	float: right;
+	margin-top: 10px;
+	margin-bottom: 10px; 
+	}
+			
+#image {
+	float: left;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	width: 100%;
+	}
+
+	#image img {
+		width: 100%;
+		}
+
+
